@@ -5,18 +5,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
   </div>
 
   <div class="container signin">
@@ -28,10 +21,11 @@ div class="container">
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="FirstName"><b>Enter FirstName</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
+<<<<<<< HEAD
     <label for="contact"><b>Enter contact</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
@@ -39,6 +33,8 @@ div class="container">
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
+=======
+>>>>>>> f52c3d015baeaea3fbc9ee0267dbfd9f237f8138
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
