@@ -3,13 +3,6 @@
   <div class="container">
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
-    <hr>
-
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-
-    <hr>
-
   </div>
 
   <div class="container signin">
