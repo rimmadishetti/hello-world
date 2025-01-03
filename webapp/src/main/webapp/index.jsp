@@ -19,7 +19,7 @@ div class="container">
     <br>
     
 <<<<<<< HEAD
-    <label for="contact"><b>Enter contact</b></label>
+    <label for="contact"><b>Enter Phone</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
